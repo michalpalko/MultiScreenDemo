@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoScreens</string>
+    <string name="main_activity_label">Obrazovka s Reklamou</string>
+    <string name="secondary_activity_label">Obrazovka s Menu</string>
+</resources>
